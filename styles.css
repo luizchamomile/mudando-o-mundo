@@ -34,7 +34,7 @@ h1{
     margin-top: 0%;
     margin-right: 5%;
     margin-left: 5%;
-    border: solid;  #0f1942;
+   border: solid;  #0f1942;
     padding: 2%;
     background-color: #FFE4E1;
    
@@ -99,3 +99,4 @@ nav a{
       font-family: arial, sans-serif;
       position: relative;
 border-radius: 5%;
+}
